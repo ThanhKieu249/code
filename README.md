@@ -24,7 +24,7 @@ Yêu cầu:
 7.	Viết chương trình với yêu cầu sau
 Yêu cầu:
 -	Điều chế xung vuông (PWM) với tần số F=1kHz và độ rộng xung width=30%.
-Phần 2: Sinh viên chọn một bài và hoàn thành (lấy điểm bài tập lớn)
+Phần 2: 
 Tiêu chí bắt buộc:
 -	Sử dụng FreeRTOS.
 -	Chia nhỏ yêu cầu của hệ thống thành nhiều tasks.
